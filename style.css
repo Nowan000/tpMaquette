@@ -1,0 +1,50 @@
+body{
+    margin:0;
+}
+#logo{
+    position: relative;
+    width: 100px;
+    top: 30px;
+    left: 30px;
+}
+
+nav{
+    display: inline-block;
+    position: absolute;
+    right: 4%;
+}
+nav > a{
+    color: blue;
+    padding: 5px;
+}
+
+.navborder{
+    border-right: solid 1px black;
+    text-decoration: none;
+}
+
+nav > button{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 120px;
+    height: 40px;
+    box-shadow: 4px 4px 4px black;
+}
+
+header{
+    height: 700px;
+    background: url("ressources/bg_image.png") no-repeat;
+    background-size:100% 100%;
+}
+
+#header{
+    position: relative;
+    top: 18%;
+    text-align: center;
+}
+#header h1{
+    font-size: 100px;
+}
+#header h2{
+    font-size: 35px;
+}
