@@ -1,0 +1,52 @@
+Création du header: (Aurélien)
+	Création navbar
+	Logo
+	Création h1
+	Création h2
+	(image bg)
+	
+Création d'une section présentation (Aurélien)
+	Création h2
+	Création p
+
+Création d'une section team (Stéphane)
+	Création h1
+	Création h2
+	(image bg)
+
+Création d'une section people (Stéphane)
+	Création h2
+	Création p
+	Création d'une div (3 images + h3 + p)
+
+	Création d'une div more people (Stéphane)
+		Création h2
+		Création liste 14 éléments (h3+p)
+
+Création d'une section Lorem (Matthias)
+	Création h1 
+	Création h2
+	(image bg)
+
+Création d'une section List of things (Matthias)
+	Création h2
+	Création de 3 div
+		Création h3
+		Création p
+		Création h3
+		Création liste non ordonnée
+
+Création d'une section formulaire (Antoine)
+	Création h3
+	Création menu déroulant option
+	Création de 4 input Name (first name + last name) , Email, Website
+	Création d'un text area
+	Création d'un bouton submit
+
+Création d'une section réseaux sociaux (Antoine)
+
+Création d'un footer (Antoine)
+	Création p
+	Création d'un menu
+
+		
