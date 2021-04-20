@@ -1,0 +1,25 @@
+#team{
+    background: url(images/groupe.jpg) center;
+    width: 1920px;
+    height: 800px;
+    text-align: center;
+}
+
+#team h1{
+    padding-top: 200px;
+    padding-bottom: 50px;
+    font-size: 80px;
+    background-color: rgba(255, 255, 255, 0.452);
+    margin: 0;
+    text-shadow: 2px 2px 2px white;
+}
+
+#team h2{
+    color: black;
+    font-size: 60px;
+    background-color: rgba(68, 250, 195, 0.452);
+    padding-top: 80px;
+    padding-bottom: 310px;
+    margin: 0;
+    text-shadow: 2px 2px 2px white;
+}
