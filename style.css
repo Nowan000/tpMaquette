@@ -34,7 +34,7 @@ nav > button{
 header{
     height: 700px;
     background: url("ressources/bg_image.png") no-repeat;
-    background-size:100% 100%;
+    background-size: 100% 100%;
 }
 
 #header{
@@ -42,9 +42,27 @@ header{
     top: 18%;
     text-align: center;
 }
-#header h1{
+#header > h1{
     font-size: 100px;
 }
-#header h2{
+#header > h2{
     font-size: 35px;
+    width: 100%;
 }
+
+.presentation > h2{
+    font-size: 45px;
+    text-align: center;
+    position: relative;
+    width: 75%;
+    left: calc(50% - 714px);    
+}
+
+.presentation > p{
+    font-size: 20px;
+    text-align: center;
+    width: 37%;
+    position: relative;
+    left: calc(50% - 352px);
+}
+
