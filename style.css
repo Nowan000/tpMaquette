@@ -17,11 +17,11 @@ nav{
 nav > a{
     color: blue;
     padding: 5px;
+    text-decoration: none;
 }
 
 .navborder{
     border-right: solid 1px black;
-    text-decoration: none;
 }
 
 nav > button{
