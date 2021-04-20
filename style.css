@@ -1,5 +1,6 @@
-body{
-    margin:0;
+html,body{
+	margin:0;
+	padding:0;
 }
 #logo{
     position: relative;
@@ -64,5 +65,33 @@ header{
     width: 37%;
     position: relative;
     left: calc(50% - 352px);
+}
+
+
+
+#laChose{
+	text-align:center;
+	background: url("laChose.jpg");
+	height:400px;
+}
+
+#titre1{
+	padding:70px 0 0;
+}
+
+#things{
+	text-align:center;
+}
+
+.bloc{
+	width:80%;
+	margin:auto;
+	display:flex;
+	border-top:2px solid black;
+	padding-top:30px;
+}
+.liste{
+	width:40%;
+	margin-left:30%;
 }
 
