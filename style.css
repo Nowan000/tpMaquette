@@ -1,0 +1,63 @@
+h3 {
+    margin-left: 700px;
+}
+
+
+#idos {
+    display:flex;
+    
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+#nom{
+
+    padding:10px;
+}
+
+#pseudo{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom:10px;
+    outline: none;
+}
+
+#mail{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom:10px;
+    outline: none;
+}
+
+#web {
+    display: flex;
+    justify-content: center;
+    margin-bottom:10px;
+    outline: none;
+
+}
+
+#com{
+    display: flex;
+    justify-content: center;
+    margin-bottom:10px;
+    outline: none;
+
+
+}
+
+#valider{
+
+    margin-left: 850px;
+    
+
+}
+
+
+/* display:flex;
+    flex-direction: column;
+    align-items: center; */ 
+
+    
